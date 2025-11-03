@@ -1,6 +1,7 @@
-# Sales-Dashboard (Tableau)
-# 📊 Retail Insights 2023 — Tableau Dashboard  
+# 📊 Sales Dashboard (Tableau)
 
+## 💼 Retail Insights 2023 — Tableau Dashboard  
+ 
 An interactive Tableau project designed to visualise retail sales and customer behaviour in 2023, offering data-driven insights into revenue, profitability, and engagement.  
 
 ---
@@ -17,7 +18,7 @@ This project was developed using the following tools and technologies:
 
 - 🟣 **Tableau Desktop** – Primary data visualisation platform  
 - 🧹 **Excel / Tableau Prep** – For data cleaning and preparation  
-- 🧮 **Calculated Fields** – Used to compute YOY growth, ranking, and profit margins  
+- 🧮 **Calculated Fields** – Designed to compute YOY change (sales, profit, and quantity), identify highest/lowest sales, and compare current vs. previous year’s sales
 - 🔗 **Data Modelling** – Relationships among sales, product, and customer tables  
 - 📁 **File Format** – `.twb` (Tableau Workbook) for the main project and `.png` for dashboard previews  
 
@@ -78,9 +79,6 @@ To build a unified Tableau interface that delivers actionable insights into:
 ### 👥 Customer Dashboard  
 ![Customer Dashboard](./Customer%20Dashboard.png)  
 
-### 🎛️ Filter Panel  
-![Filter Panel](./Filter.png)  
-
 ---
 
 ## 🚀 How to Use  
@@ -93,9 +91,9 @@ To build a unified Tableau interface that delivers actionable insights into:
 
 ## 👨‍💻 Author  
 **Shubdeep Nayak**  
-🎓 *PGDM – Business Analysis | Data & Business Analyst | Tableau Developer*  
-📧 [your.email@example.com]  
-🔗 [GitHub Profile](https://github.com/yourusername)  
+💼 *Research Analyst | Tableau Developer*  
+📧 [shubhdeep.nayak7@gmail.com](mailto:shubhdeep.nayak7@gmail.com)  
+🔗 [GitHub Profile](https://github.com/ShubdeepNayak07)
 
 ---
 
